@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elizabeth Suarez</h1>
 <h3 align="center">A passionate developer from El Salvador</h3>
-You can find more information about me and my experience, there are more videos pinned to my profile
+<h4 align="center">You can find more information about me and my experience, there are more videos pinned to my profile.</h4>
 
 - 👨‍💻 Proyect 1 [Dinamed](https://github.com/Elizabeth186/Farmacia_Dinamed)
 
