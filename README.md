@@ -2,5 +2,5 @@
 
 ## Skills
 
-![Andorid]https://img.shields.io/badge/Androic
+![Andorid](https://img.shields.io/badge/Android)
 
