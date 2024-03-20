@@ -3,11 +3,11 @@
 
 - 👨‍💻 Proyect 1 [Dinamed](https://github.com/Elizabeth186/Farmacia_Dinamed)
 
-- 🌱 I’m currently learning **English**
-
 - 👨‍💻 Proyect 2 [Restaurant](https://github.com/Elizabeth186/Restaurant)
 
 - 👨‍💻 Proyect 3 [Products crud](https://github.com/Elizabeth186/ProductosApp_Mongodb_AndHeroku)
+
+- - 🌱 I’m currently learning **English**
 
 - 📫 How to reach me **eliizabethsuarezz@gmail.com**
 
