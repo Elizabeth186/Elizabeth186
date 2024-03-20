@@ -2,5 +2,6 @@
 
 ## Skills
 
-![Andorid](https://img.shields.io/badge/Android)
+<i class="fab fa-kotlin"></i> Kotlin
+
 
