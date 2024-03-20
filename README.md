@@ -4,7 +4,8 @@
 
 ## Skills
 
-![image](https://github.com/Elizabeth186/Elizabeth186/assets/89174310/1b5145b7-c606-4215-a427-269cc45e5b8a)
+![image](https://github.com/Elizabeth186/Elizabeth186/assets/89174310/cb084c29-4f6c-49eb-8016-7ddd409ae85b)
+
 
 
 
