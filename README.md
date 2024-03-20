@@ -2,6 +2,6 @@
 
 ## Skills
 
-<i class="fab fa-kotlin"></i> Kotlin
+<i class="fa-brands fa-android"></i> ###Kotlin/Java
 
 
