@@ -3,15 +3,15 @@
 <h4 align="center">You can find more information about me and my experience, there are more videos pinned to my profile.</h4>
 
 
-- 👨‍💻 Proyect 1 [Dinamed](https://github.com/Elizabeth186/Farmacia_Dinamed)
+- 👨‍💻 Proyect 1 [Rivian](https://github.com/Elizabeth186/RIVIAN_SIVAR_PROYECTO)
 
 - 👨‍💻 Proyect 2 [Restaurant](https://github.com/Elizabeth186/Restaurant)
 
-- 👨‍💻 Proyect 3 [Products crud](https://github.com/Elizabeth186/ProductosApp_Mongodb_AndHeroku)
+- 👨‍💻 Proyect 3 [Products](https://github.com/Elizabeth186/ProductosApp_Mongodb_AndHeroku)
 
 - - 🌱 I’m currently learning **English**
 
-- 📫 How to reach me **eliizabethsuarezz@gmail.com**
+- 📫 How to reach me **suarz.dev@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
