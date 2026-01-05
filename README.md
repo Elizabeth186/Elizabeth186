@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Elizabeth Suarez</h1>
-<h3 align="center">A passionate developer from El Salvador</h3>
+<h3 align="center">Mobile Developer (Kotlin/Java, Jetpack Compose, React Native). Production experience, API integration, and Google Play releases.</h3>
 <h4 align="center">You can find more information about me and my experience, there are more videos pinned to my profile.</h4>
 
 
-- 👨‍💻 Proyect 1 [Rivian](https://github.com/Elizabeth186/RIVIAN_SIVAR_PROYECTO)
+- 👨‍💻 Proyect [Rivian](https://github.com/Elizabeth186/RIVIAN_SIVAR_PROYECTO)
 
-- 👨‍💻 Proyect 2 [Restaurant](https://github.com/Elizabeth186/Restaurant)
+- 👨‍💻 Proyect [Restaurant](https://github.com/Elizabeth186/Restaurant)
 
-- 👨‍💻 Proyect 3 [Products](https://github.com/Elizabeth186/ProductosApp_Mongodb_AndHeroku)
-
-- - 🌱 I’m currently learning **English**
-
-- 📫 How to reach me **suarz.dev@gmail.com**
+- 📫 How to reach me **asuarez.th@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://ictweb.in/wp-content/uploads/2019/11/kotlin.png" alt="android" width="50" height="50"/> </a>  
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://www.telepieza.com/wordpress/wp-content/uploads/java.jpg" width="50" height="50"/> </a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*31qXFApivN7eKmUDMAi_Eg.png" width="50" height="50"/> </a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://deanobrien.uk/wp-content/uploads/2022/11/sql-server.png" width="90" height="90"/> </a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://blog.back4app.com/wp-content/uploads/2021/06/image-34.png" width="90" height="90"/> </a>
+</p>
