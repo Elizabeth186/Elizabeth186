@@ -3,9 +3,9 @@
 <h4 align="center">You can find more information about me and my experience, there are more videos pinned to my profile.</h4>
 
 
-- 👨‍💻 Proyect [Rivian](https://github.com/Elizabeth186/RIVIAN_SIVAR_PROYECTO)
+- 👨‍💻 Project [Rivian](https://github.com/Elizabeth186/RIVIAN_SIVAR_PROYECTO)
 
-- 👨‍💻 Proyect [Restaurant](https://github.com/Elizabeth186/Restaurant)
+- 👨‍💻 Proyject [Restaurant](https://github.com/Elizabeth186/Restaurant)
 
 - 📫 How to reach me **asuarez.th@gmail.com**
 
