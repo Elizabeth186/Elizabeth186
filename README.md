@@ -13,9 +13,6 @@ with solid experience in Java/XML and cross-platform experience (React Native, K
 - 👨‍💻 <a href="https://github.com/Elizabeth186/financia-plus-app"><b>FinanciaPlus – Credit Onboarding</b></a><br/>
   <sub>AML validation · Credit scoring · Spring Boot APIs · Scalable architecture · Feature-first</sub>
 
-- 👨‍💻 <a href="https://github.com/Elizabeth186/Pokemon-app"><b>Pokemon App</b></a><br/>
-  <sub>Kotlin · Compose · API integration · Scalable architecture · Feature-first</sub>
-
 ---
 
 - 📫 How to reach me: <b>suarez.elizabethblanco@gmail.com</b>
